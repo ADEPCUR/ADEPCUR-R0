@@ -26,6 +26,6 @@ Piezas
 
 ### Soporte motor
 
-Pendiente: ver qué tornillos usar.
+El soporte de motor ha sido diseñado para tornillos y tuercas M3 x 30mm.
 
 ![Soporte motor](./assets/soporte_motor.png)
